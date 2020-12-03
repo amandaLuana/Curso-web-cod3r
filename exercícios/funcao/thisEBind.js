@@ -14,3 +14,4 @@ falarDePessoa()
 
 const falar2 = pessoa.falar
 falar2()
+
